@@ -29,6 +29,7 @@ a:hover {
 header {
     height: 100vh;
     background-color: #F5F5F5;
+    padding-bottom: 5rem;
 }
 
 .nav-logo-container {
@@ -48,11 +49,6 @@ header {
     overflow: hidden;
     position: relative;
     
-}
-
-.carousel-item img{
-    
-   
 }
 
 .testimonials {
